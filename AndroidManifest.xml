@@ -19,8 +19,5 @@
     package="com.android.ex.photo"
     android:versionCode="1">
 
-    <uses-sdk
-        android:targetSdkVersion="21" android:minSdkVersion="14"/>
-
     <application />
 </manifest>
